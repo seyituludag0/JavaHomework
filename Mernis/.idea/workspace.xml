@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45c4101a-e57f-468d-8f7a-5ef05d3f7ee6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="651e0cd0-216b-4947-a464-85f83ab87bd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../interfaceAbstractDemo/src/Abstract/BaseCustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceAbstractDemo/src/Abstract/CustomerCheckService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceAbstractDemo/src/Abstract/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceAbstractDemo/src/Abstract/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceAbstractDemo/src/Concrete/CustomerCheckManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceAbstractDemo/src/Concrete/NeroCustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceAbstractDemo/src/Concrete/StarbucksCustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceAbstractDemo/src/Entities/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,9 +18,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1s1X3mlzv0ZD5xDi75OTfDw3cZ9" />
+  <component name="ProjectId" id="1s253tCFGsstzHHExu44TJSrKax" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -80,7 +89,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="interfaceAbstractDemo" />
+      <module name="Mernis" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -92,13 +101,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="45c4101a-e57f-468d-8f7a-5ef05d3f7ee6" name="Default Changelist" comment="" />
-      <created>1620040877002</created>
+      <changelist id="651e0cd0-216b-4947-a464-85f83ab87bd2" name="Default Changelist" comment="" />
+      <created>1620057650632</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1620040877002</updated>
-      <workItem from="1620040878228" duration="118000" />
-      <workItem from="1620041053875" duration="88000" />
+      <updated>1620057650632</updated>
+      <workItem from="1620057651893" duration="70000" />
     </task>
     <servers />
   </component>
